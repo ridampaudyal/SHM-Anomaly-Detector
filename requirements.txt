@@ -1,9 +1,7 @@
 streamlit
-numpy==1.21.6
+numpy==1.26.4          # Latest stable NumPy 1.x, compatible with TF 2.18.0
 pandas
 joblib
-tensorflow-cpu==2.8.0
-protobuf==3.19.6  # <--- ADDED THIS LINE
+tensorflow-cpu==2.18.0 # EXACT version you used for training
 matplotlib
 seaborn
-h5py==3.1.0
