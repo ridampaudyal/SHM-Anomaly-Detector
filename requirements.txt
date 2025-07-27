@@ -1,5 +1,5 @@
 streamlit
-numpy
+numpy==1.23.5 
 pandas
 joblib
 tensorflow-cpu==2.10.0
